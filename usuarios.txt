@@ -1,0 +1,46 @@
+6
+alvaro
+alvaro
+0 1 0
+3 3 0
+1465134766
+
+_X_X_X_
+laura
+laura
+0 -5 0
+0 5 0
+1465134773
+
+_X_X_X_
+luis
+luis
+0 1 0
+1 1 0
+1458124591
+
+_X_X_X_
+marta
+marta
+1 5 1
+7 2 0
+1465137146
+
+_X_X_X_
+pepito
+pepito
+0 2 0
+2 1 0
+1459098944
+Ha perdido la partida contra marta el 2431/11/13
+Se ha creado una nueva partida contra marta en la fecha 2016/06/03
+Ha ganado por abandono una partida contra marta el 2016/06/03.
+Ha ganado por abandono una partida contra alvaro el 2016/06/04.
+_X_X_X_
+susana
+susana
+0 1 0
+1 1 0
+1458125089
+
+_X_X_X_
